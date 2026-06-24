@@ -25,5 +25,6 @@ public class MainApp {
         System.out.println(s.getAverage());
         System.out.println(s.getRemarks());
         System.out.println();
+        sc.close();
     }
 }
